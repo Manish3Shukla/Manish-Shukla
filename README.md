@@ -92,6 +92,10 @@ const manish = {
 
 # 🚀 What I Build
 
+# 🚀 What I Build
+
+<div align="center">
+
 | AI & Smart Systems | Full Stack Development | Real World Projects |
 |---|---|---|
 | AI Assistants | Responsive Websites | Women Safety App |
@@ -100,6 +104,9 @@ const manish = {
 | Automation Systems | Database Integration | Live Location Tracking |
 | Future AI Solutions | Authentication Systems | Emergency Safety Tools |
 
+</div>
+
+---
 ---
 
 # 📊 GitHub Stats
