@@ -309,3 +309,78 @@ that solve real-world problems.
 </div>
 
 ---
+
+
+# Future Goals
+
+```txt
+Build advanced AI-powered platforms
+Create scalable real-world applications
+Improve system design and backend architecture
+Learn cloud and deployment technologies
+Contribute to impactful technology solutions
+```
+
+---
+
+# Development Principles
+
+```txt
+Clean Code
+Responsive Design
+Performance Optimization
+Scalable Architecture
+User-Centered Development
+```
+
+---
+
+# Featured Technologies
+
+<div align="center">
+
+| Category | Stack |
+|---|---|
+| Frontend | HTML, CSS, JavaScript, React, Tailwind CSS |
+| Backend | PHP, Node.js |
+| Database | MySQL, Firebase |
+| APIs | REST API, Twilio, Google Maps API |
+| Tools | Git, GitHub, VS Code, Figma |
+
+</div>
+
+---
+
+# Deployment Platforms
+
+```txt
+GitHub Pages
+Netlify
+Vercel
+Firebase Hosting
+```
+
+---
+
+# Contribution Graph
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manish3Shukla&theme=tokyonight" />
+
+</div>
+
+---
+
+# Closing Statement
+
+<div align="center">
+
+Focused on building modern,
+efficient,
+and practical digital solutions
+using AI and full stack technologies.
+
+</div>
+
+---v
