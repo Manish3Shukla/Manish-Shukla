@@ -1,31 +1,4 @@
-# 🚀 MANISH SHUKLA — GitHub Profile Setup Guide + Ready README
 
-## STEP 1 — Create Profile Repository
-
-GitHub पर जाओ → New Repository
-
-Repository Name:
-
-```bash
-Manish3Shukla
-```
-
-⚠️ Username और Repository Name SAME होने चाहिए।
-
-Settings:
-
-* Public
-* ✅ Add README.md
-
-फिर Create Repository.
-
----
-
-# STEP 2 — Replace README.md With This
-
-नीचे दिया गया पूरा code अपने README.md में paste करना है।
-
----
 
 ````md
 <div align="center">
