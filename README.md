@@ -18,20 +18,24 @@
 const manish = {
     role: ["AI Developer", "Full Stack Developer"],
     education: "BCA Graduate",
+
     currentFocus: [
         "AI Projects",
         "Smart City Systems",
         "Women Safety Applications",
         "Frontend Development"
     ],
+
     currentlyLearning: [
         "React",
         "AI Agents",
         "Cloud",
         "Backend Systems"
     ],
+
     funFact: "I build futuristic smart systems 🚀"
 }
+```
 
 ---
 
@@ -95,5 +99,71 @@ const manish = {
 | Prompt Engineering | REST APIs | SOS Alert Systems |
 | Automation Systems | Database Integration | Live Location Tracking |
 | Future AI Solutions | Authentication Systems | Emergency Safety Tools |
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manish3Shukla&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish3Shukla&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Manish3Shukla&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+- 🏅 IBM AI Course Completed
+- 🏅 Big Data Analytics Certification
+- 🏅 State Level Hackathon Participant
+- 🏅 ISRO / Agnirva Internship Program
+- 🏅 Multiple Smart System Projects Built
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manish3Shukla)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Manish3Shukla&style=for-the-badge&color=blueviolet)
+
+</div>
+
+---
+
+# ⚡ Fun Quote
+
+<div align="center">
+
+### 🚀 "Building futuristic systems with code."
+
+</div>
 
 ---
