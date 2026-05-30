@@ -50,7 +50,14 @@ const manish = {
 ```
 
 ---
+<div align="center">
 
+### Visit Repository
+
+[![Repositories](https://img.shields.io/badge/View-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manish3Shukla?tab=repositories)
+
+</div>
+---
 # Tech Stack
 
 <div align="center">
